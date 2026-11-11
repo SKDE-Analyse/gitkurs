@@ -1,16 +1,16 @@
-# Git Practice Repository
+# Øvingsarkiv for Git
 
-This repository is a small sandbox for practicing Git workflows. It contains a simple web page and a few text files that students can edit, stage, commit, branch, and merge.
+Dette repositoriet er et lite sandkassemiljø for å øve på Git-arbeidsflyter. Det inneholder en enkel nettside og noen tekstfiler som studenter kan redigere, legge til i staging-området, committe, opprette grener og flette grener.
 
-## What to practice
+## Hva du kan øve på
 
-Use this repo to try these Git workflows:
+Bruk dette repositoriet til å prøve disse arbeidsflytene i Git:
 
-- make a change and commit it
-- check status and diff before committing
-- create a feature branch
-- merge a branch back into main
-- resolve a small conflict
-- push to a remote repository and pull updates
+- gjøre en endring og opprette en commit
+- kontrollere status og diff før du committer
+- opprette en funksjonsgren
+- flette en gren tilbake til main
+- løse en liten konflikt
+- sende endringer til et eksternt repositorium og hente oppdateringer
 
 Dette er en endring også
